@@ -16,6 +16,9 @@ A Tabela de Códigos de Municípios do IBGE apresenta a lista dos municípios br
 
 É atualizada sistematicamente de forma a incluir as alterações decorrentes do desdobramento de municípios e, conseqüentemente, da criação de novos municípios, mudanças de nome dos municípios, como também de processos de fusão que resultam na extinção ou modificação de nome de algum município.
 
+-> [dtb](https://github.com/nunomazer/tabelas-referencia/tree/main/ibge/dtb)
+> [Fonte IBGE](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorial-brasileira.html?=&t=downloads&utm_source=landing&utm_medium=explica&utm_campaign=codmun)
+
 
 
 ## Raça e Cor
