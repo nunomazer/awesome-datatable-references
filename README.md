@@ -25,6 +25,10 @@ Tabela simples com os códigos de raça e cor usados nas pesquisas do IBGE.
 
 -> [raca_cor](https://github.com/nunomazer/tabelas-referencia/tree/main/ibge)
 
+# Contribuições
+
+Ademir Mazer Junior - [Mazer.dev](https://mazer.dev)
+
 
 
 
