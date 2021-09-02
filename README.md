@@ -22,7 +22,7 @@ A Tabela de Códigos de Municípios do IBGE apresenta a lista dos municípios br
 
 Tabela simples com os códigos de raça e cor usados nas pesquisas do IBGE.
 
--> (raca_cor)[https://github.com/nunomazer/tabelas-referencia/tree/main/ibge]
+-> [raca_cor](https://github.com/nunomazer/tabelas-referencia/tree/main/ibge)
 
 
 
