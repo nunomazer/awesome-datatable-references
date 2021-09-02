@@ -10,7 +10,7 @@ Organização de dados oriundos do IBGE, alguns são armazenados no repositório
 
 -> [ibge](https://github.com/nunomazer/tabelas-referencia/tree/main/ibge)
 
-## DTB - Divisão Territorial Brasileira
+### DTB - Divisão Territorial Brasileira
 
 A Tabela de Códigos de Municípios do IBGE apresenta a lista dos municípios brasileiros associados a um código composto de 7 dígitos, sendo os dois primeiros referentes ao código da Unidade da Federação.
 
@@ -19,9 +19,7 @@ A Tabela de Códigos de Municípios do IBGE apresenta a lista dos municípios br
 -> [dtb](https://github.com/nunomazer/tabelas-referencia/tree/main/ibge/dtb)
 > [Fonte IBGE](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/23701-divisao-territorial-brasileira.html?=&t=downloads&utm_source=landing&utm_medium=explica&utm_campaign=codmun)
 
-
-
-## Raça e Cor
+### Raça e Cor
 
 Tabela simples com os códigos de raça e cor usados nas pesquisas do IBGE.
 
