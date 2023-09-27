@@ -1,1 +1,11 @@
-
+id;genero
+1;Masculino
+2;Feminino
+3;Não-binário
+4;Gênero-fluido
+5;Agênero
+6;Bigênero
+7;Transmasculino
+8;Transfeminino
+98;Outro
+99;Prefiro não informar
