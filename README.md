@@ -48,7 +48,7 @@ Conjuntos de dados curados e organizados sem fontes oficiais de referência.
 
 Tabela simples com códigos de identidade de gênero para cadastro de pessoas.
 
--> [genero]
+-> [genero](https://github.com/nunomazer/awesome-datatable-references/blob/main/nao-oficiais/genero.csv)
 
 # Contribuições
 
