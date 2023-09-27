@@ -40,6 +40,16 @@ Tabela simples com os códigos de raça e cor usados nas pesquisas do IBGE.
 
 -> [raca_cor](https://github.com/nunomazer/tabelas-referencia/tree/main/ibge)
 
+## Não Oficiais
+
+Conjuntos de dados curados e organizados sem fontes oficiais de referência.
+
+### Identidade de Gênero
+
+Tabela simples com códigos de identidade de gênero para cadastro de pessoas.
+
+-> [genero]
+
 # Contribuições
 
 Ademir Mazer Junior - [Mazer.dev](https://mazer.dev)
